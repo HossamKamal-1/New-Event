@@ -1,70 +1,107 @@
-# Getting Started with Create React App
+<p align="center">
+  <img  src="https://github.com/HossamKamal-1/Admin-Dashboard/assets/99696657/19b86e32-5cb9-4c39-b514-3054bb99f3a3" height="200"/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+# Hi, I'm Hossam! 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+##  About Me
+I'm front-end
+developer with a passion for
+creating beautiful and
+responsive websites. I love
+collaborating with others to
+create innovative and impactful
+projects, and I'm always eager
+to learn new skills and explore
+new front-end frameworks and
+technologies.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# New Event
 
-### `npm run build`
+New Event is your go-to landing page for effortless event discovery. Whether you're into concerts, workshops, or community gatherings, EventSpot streamlines the process, making it easy to find and attend exciting events near you.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Client(Front-End):** ReactJS and styled-components.
 
-### `npm run eject`
+Checkout more dependencies at: 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+https://github.com/HossamKamal-1/new-event/blob/main/package.json
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Features
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Responsive Design.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Prerequisites
+This project uses Yarn as a package manager
+```bash
+npm install --global yarn
+```
+## Run Locally
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Clone the project
 
-### Code Splitting
+```bash
+git clone https://github.com/HossamKamal-1/new-event.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Go to the project directory
 
-### Analyzing the Bundle Size
+```bash
+cd new-event
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Install dependencies
 
-### Making a Progressive Web App
+```bash
+yarn
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Start the server
 
-### Advanced Configuration
+```bash
+yarn dev
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+## Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+To deploy this project run
 
-### `npm run build` fails to minify
+```bash
+yarn build
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Screenshots
+
+![newevent](https://github.com/HossamKamal-1/new-event/assets/99696657/afcaecfd-38dc-4646-8993-14bb124874b3)
+
+
+## Demo
+
+Netlify Demo:
+
+https://newevent-react.netlify.app/
+
+gif:
+
+![ezgif-3-c9a1db8f3b](https://github.com/HossamKamal-1/Admin-Dashboard/assets/99696657/72a6c0d9-6947-4a39-a4b5-38d6090d41f2)
+
+
+
+## FAQ
+
+#### What dependencies were used to develop the project?
+
+Check the full dependencies here: 
+https://github.com/HossamKamal-1/new-event/blob/main/package.json
+
